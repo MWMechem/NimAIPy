@@ -157,7 +157,7 @@ def qlearn(simnum, start):
             if (qtable[nextstate] > maxqv):
                 maxqv = qtable[nextstate]
                 nextboard = nextstate
-    return nextboard"""
+    return  nextboard"""
 
 """def minq(board, qtable):
     a, b, c, d = board
