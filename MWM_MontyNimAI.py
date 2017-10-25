@@ -8,7 +8,7 @@ Code Sample for Wayfair. """
 
 #q learning algorithm. q learning is a method of AI training where each possible
 # outcome of a move is assigned a value based on which player it benefits.
-# then, during x number of simulations, the AI plays itself using randomly generated
+# then, during x number  of simulations, the AI plays itself using randomly generated
 #moves, compiling a table of values. from there, it should be able to play itself
 #or a human with little to no error. Unfortunately, it is a little bit buggy at the minute
 # and keeps selecting incorrect lots to draw from.
